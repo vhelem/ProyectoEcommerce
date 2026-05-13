@@ -2,6 +2,10 @@
 
 Proyecto realizado para la pre-entrega del curso BackEnd / Java - Talento Tech.
 
+## 🔗 Repositorio
+
+[Ver proyecto en GitHub](https://github.com/vhelem/ProyectoEcommerce)
+
 ## Funcionalidades
 - Gestión de productos
 - Productos físicos y digitales

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b9c82b3-2af4-4bc8-a448-8f97148eb308" name="Changes" comment="commit acciones pendientes">
-      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
+    <list default="true" id="6b9c82b3-2af4-4bc8-a448-8f97148eb308" name="Changes" comment="commit acciones pendientes - edicion de readme">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +128,79 @@
       <option name="project" value="LOCAL" />
       <updated>1778713697449</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit acciones pendientes - agrego readme">
+      <option name="closed" value="true" />
+      <created>1778713833011</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1778713833011</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit acciones pendientes - agrego readme">
+      <option name="closed" value="true" />
+      <created>1778714174998</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1778714174998</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit acciones pendientes - edicion de readme">
+      <option name="closed" value="true" />
+      <created>1778714212037</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1778714212037</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit acciones pendientes - edicion de readme">
+      <option name="closed" value="true" />
+      <created>1778714754947</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1778714754947</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit acciones pendientes - edicion de readme">
+      <option name="closed" value="true" />
+      <created>1778714830197</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1778714830197</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit acciones pendientes - edicion de readme">
+      <option name="closed" value="true" />
+      <created>1778714863816</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1778714863816</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit acciones pendientes - edicion de readme">
+      <option name="closed" value="true" />
+      <created>1778714909343</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1778714909343</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit acciones pendientes - edicion de readme">
+      <option name="closed" value="true" />
+      <created>1778715336099</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1778715336099</updated>
+    </task>
+    <task id="LOCAL-00012" summary="commit acciones pendientes - edicion de readme">
+      <option name="closed" value="true" />
+      <created>1778716303939</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1778716303939</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +220,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <MESSAGE value="commit acciones pendientes" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit acciones pendientes" />
+    <MESSAGE value="commit acciones pendientes - agrego readme" />
+    <MESSAGE value="commit acciones pendientes - edicion de readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit acciones pendientes - edicion de readme" />
   </component>
 </project>
