@@ -13,4 +13,4 @@ Proyecto realizado para la pre-entrega de Java.
 - IntelliJ IDEA
 - 
 ## Pendientes
-- Eliminar archivos "ScTest - Main"
+- Eliminar archivos "ScTest - Main" 
