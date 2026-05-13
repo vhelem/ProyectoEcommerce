@@ -1,6 +1,6 @@
 # Pre Entrega Java
 
-Proyecto realizado para la pre-entrega de Java.
+Proyecto realizado para la pre-entrega del curso BackEnd / Java - Talento Tech.
 
 ## Funcionalidades
 - Gestión de productos
@@ -11,6 +11,10 @@ Proyecto realizado para la pre-entrega de Java.
 ## Tecnologías utilizadas
 - Java
 - IntelliJ IDEA
-- 
+- Git / GitHub
+
+## Alumno 
+- Belén Bondoni
+
 ## Pendientes
 - Eliminar archivos "ScTest - Main" -
