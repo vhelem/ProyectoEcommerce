@@ -45,5 +45,8 @@ src/
 ## ProductoFisico.java
 - Representa productos físicos. Hereda de Producto y agrega características específicas como peso y stock.
 
+## Validador.java
+- Contiene métodos de validación para verificar que los datos sean correctos y se corrobore el stock disponible de productos para así evitar errores en el sistema.
+
 ## Pendientes
-- Eliminar archivos "ScTest - Main" 
+- Eliminar archivos "ScTest y Main" de GitHub
