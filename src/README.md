@@ -17,4 +17,4 @@ Proyecto realizado para la pre-entrega del curso BackEnd / Java - Talento Tech.
 - Belén Bondoni
 
 ## Pendientes
-- Eliminar archivos "ScTest - Main" -
+- Eliminar archivos "ScTest - Main" 
