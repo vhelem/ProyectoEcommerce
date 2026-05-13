@@ -11,3 +11,6 @@ Proyecto realizado para la pre-entrega de Java.
 ## Tecnologías utilizadas
 - Java
 - IntelliJ IDEA
+- 
+## Pendientes
+- Eliminar archivos "ScTest - Main"
