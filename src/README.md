@@ -16,7 +16,7 @@ Proyecto realizado para la pre-entrega del curso BackEnd / Java - Talento Tech.
 ## Alumno 
 - Belén Bondoni
 
-## Estructura y Descripción de Clases
+## Estructura y Descripción de Clases:
 
 src/
 ── com.techlab.inicio/
