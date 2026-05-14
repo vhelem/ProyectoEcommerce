@@ -13,7 +13,7 @@ Proyecto realizado para la pre-entrega del curso BackEnd / Java - Talento Tech.
 - Validador
 
 ## Tecnologías utilizadas
-- Java
+- Java SDK 22
 - IntelliJ IDEA
 - Git / GitHub
 

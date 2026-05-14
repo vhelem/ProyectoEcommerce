@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6b9c82b3-2af4-4bc8-a448-8f97148eb308" name="Changes" comment="commit acciones pendientes - edicion de readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/techlab/inicio/GestorProductos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/techlab/inicio/GestorProductos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +52,9 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/MindM/IdeaProjects/Proyecto Ecommerce/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -200,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778716303939</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commit acciones pendientes - edicion de readme">
+      <option name="closed" value="true" />
+      <created>1778716682339</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1778716682360</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
